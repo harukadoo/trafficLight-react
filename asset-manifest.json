@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//harukadoo.github.io/trafficLigth-react/static/css/main.6ad72cac.css",
+    "main.js": "//harukadoo.github.io/trafficLigth-react/static/js/main.7fa28c23.js",
+    "index.html": "//harukadoo.github.io/trafficLigth-react/index.html",
+    "main.6ad72cac.css.map": "//harukadoo.github.io/trafficLigth-react/static/css/main.6ad72cac.css.map",
+    "main.7fa28c23.js.map": "//harukadoo.github.io/trafficLigth-react/static/js/main.7fa28c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad72cac.css",
+    "static/js/main.7fa28c23.js"
+  ]
+}
